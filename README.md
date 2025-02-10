@@ -37,5 +37,5 @@ Salir: Cierra el programa.
 cesar obed torres parada
 
 ## Licencia
-MIT. 
+
 
